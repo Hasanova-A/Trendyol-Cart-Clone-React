@@ -1,6 +1,6 @@
 # Trendyol Shopping Cart Clone (React State) 🛒⚛️
 
-Canlı baxmaq üçün kliklə: https://hasanova-a.github.io/Trendyol-Cart-Clone-React/
+
 Salam! Bu repository mənim **React.js** istifadə edərək yığdığım tam interaktiv və dinamik bir e-ticarət səbəti (Shopping Cart) simulyasiyasıdır. Layihənin əsas məqsədi Türkiyənin məşhur "Trendyol" alış-veriş platformasının səbət səhifəsini həm vizual (UI), həm də məntiqi (Logic) olaraq koda tökmək və React-in `State` (vəziyyət) arxitekturasını dərindən mənimsəməkdir.
 
 ## 🛠 Nələri öyrəndim və tətbiq etdim?
